@@ -4,11 +4,7 @@
  * 
  * @author (il tuo nome) 
  * @version (un numero di versione o una data)
- * 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
  
- CIAO CIAO
- Modificato da main
- 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
  Altra modifica
  */
 public class BlaBla
