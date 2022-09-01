@@ -31,4 +31,8 @@ public class BlaBla
         // metti qui il tuo codice
         return x + y;
     }
+    
+    public static void main(String[] args){
+        System.out.println("Ciao mondo!");
+    }
 }
