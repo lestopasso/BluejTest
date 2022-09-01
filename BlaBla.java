@@ -4,8 +4,7 @@
  * 
  * @author (il tuo nome) 
  * @version (un numero di versione o una data)
- 
- Altra modifica
+
  */
 public class BlaBla
 {
